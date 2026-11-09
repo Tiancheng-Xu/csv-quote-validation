@@ -1,0 +1,242 @@
+{
+  "offer_url": "https://www.reddit.com/r/PythonJobs/comments/1xrw3eo/forhire_fullremote_python_csv_quote_validation/",
+  "demo_url": "https://gist.github.com/Tiancheng-Xu/b06921b6a135692b9fd408ac10398a4d",
+  "price_basis": "Existing published offer; subject to sample/scope review",
+  "cards": [
+    {
+      "id": "01-service",
+      "source": "13-contact-background",
+      "title": [
+        "Check a quote CSV",
+        "before you use it."
+      ],
+      "intro": "Find records that need attention before an operator uses the totals.",
+      "body": "<b>From USD80 after sample review.</b><br/>One UTF-8 template, up to 100 nonblank rows, seven agreed fields and CNY rules. Includes a checked CSV, quote summary, reusable script and instructions. One same-rule revision is included.",
+      "cta": "Discuss a scoped paid first job",
+      "page": 1,
+      "source_file": "source-originals/13-contact-background.png",
+      "source_sha256": "de4325ea793de8e7f6d435fa972b7d36e981f7a98df842e9a9e1b0bc61427f9c",
+      "source_dimensions": [
+        2560,
+        1440
+      ],
+      "source_pixels_edited": false,
+      "source_marker_obscured": false,
+      "cta_url": "https://www.reddit.com/r/PythonJobs/comments/1xrw3eo/forhire_fullremote_python_csv_quote_validation/",
+      "qr_url": "https://www.reddit.com/comments/1xrw3eo",
+      "rendered_file": "card-1.png",
+      "rendered_sha256": "16ece8c087913bcbd476f2e5a8ebf6d09ccb7125eea7522048a6b3e7918c4eb6",
+      "rendered_size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "id": "02-scope",
+      "source": "09-scope-boundary",
+      "title": [
+        "One template.",
+        "Clear limits."
+      ],
+      "intro": "Agree the input and checks before the job starts.",
+      "body": "<b>Starter scope:</b> one CSV template, up to 100 nonblank records, CNY pricing and one agreed calculation rule.<br/>Tax, FX, PDFs/OCR, Excel editing and external integrations require a separate assessment. Schedule and payment route are confirmed before work starts.",
+      "cta": "Check whether your file fits",
+      "page": 2,
+      "source_file": "source-originals/09-scope-boundary.png",
+      "source_sha256": "c51e31d5889d7253fd244542a9e1b0d204da257b86a13d3969b6c1dc9debc362",
+      "source_dimensions": [
+        2048,
+        2048
+      ],
+      "source_pixels_edited": false,
+      "source_marker_obscured": false,
+      "cta_url": "https://www.reddit.com/r/PythonJobs/comments/1xrw3eo/forhire_fullremote_python_csv_quote_validation/",
+      "qr_url": "https://www.reddit.com/comments/1xrw3eo",
+      "rendered_file": "card-2.png",
+      "rendered_sha256": "755ceb26d650316e200689d91889e83fb6834fda0e9734d264a56731dde62d61",
+      "rendered_size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "id": "03-input",
+      "source": "03-input-prep",
+      "title": [
+        "Start with a",
+        "sanitized sample."
+      ],
+      "intro": "Send column names and 5-10 fictional or sanitized rows for scope review.",
+      "body": "<b>Current seven fields:</b><br/>quote_id, line_id, item, qty,<br/>unit_price, discount, currency.<br/>Add your expected results and exception rules. Keep credentials and confidential records out of public messages.",
+      "cta": "Share headers and expected checks",
+      "page": 3,
+      "source_file": "source-originals/03-input-prep.png",
+      "source_sha256": "5ee49470dc58a71ce189f03bf13f33154661671e3be65f9aa3b567e0276e1578",
+      "source_dimensions": [
+        2048,
+        2048
+      ],
+      "source_pixels_edited": false,
+      "source_marker_obscured": false,
+      "cta_url": "https://www.reddit.com/r/PythonJobs/comments/1xrw3eo/forhire_fullremote_python_csv_quote_validation/",
+      "qr_url": "https://www.reddit.com/comments/1xrw3eo",
+      "rendered_file": "card-3.png",
+      "rendered_sha256": "28d9f8bd6fdd6e128c7a4167cf8db610e12fcac9d2f5f13532d064e832035d52",
+      "rendered_size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "id": "04-missing",
+      "source": "04-missing-value",
+      "title": [
+        "Missing values",
+        "stay visible."
+      ],
+      "intro": "Flag incomplete records instead of silently treating them as valid.",
+      "body": "Blank required text and missing or invalid numeric values are flagged. Invalid amounts stay blank and are excluded from valid-line totals.<br/>Each row shows its <b>first detected error</b>; the original input file stays unchanged.",
+      "cta": "Describe the missing-data rule",
+      "page": 4,
+      "source_file": "source-originals/04-missing-value.png",
+      "source_sha256": "25cedc35a62c3f486c3e57b47afdb3170740d19ca6d68856ada5abd1d242f0d0",
+      "source_dimensions": [
+        2048,
+        2048
+      ],
+      "source_pixels_edited": false,
+      "source_marker_obscured": false,
+      "cta_url": "https://www.reddit.com/r/PythonJobs/comments/1xrw3eo/forhire_fullremote_python_csv_quote_validation/",
+      "qr_url": "https://www.reddit.com/comments/1xrw3eo",
+      "rendered_file": "card-4.png",
+      "rendered_sha256": "85d1e82108e725441393c769eb791e36663cb9ac1528bde36d5e2be38e538649",
+      "rendered_size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "id": "05-duplicates",
+      "source": "05-duplicate-review",
+      "title": [
+        "Flag conflicting",
+        "line IDs."
+      ],
+      "intro": "Use an agreed key to make duplicate handling predictable.",
+      "body": "The current rule checks the exact <b>quote_id + line_id</b> pair. All rows sharing a duplicate pair are flagged; their amounts are excluded from valid-line totals.<br/>Identifier normalization or a different business key needs an agreed rule.",
+      "cta": "Confirm your unique record key",
+      "page": 5,
+      "source_file": "source-originals/05-duplicate-review.png",
+      "source_sha256": "5cc06434b86519eeefd10379f32608c56edcc2d5171c1960eada6de5f6cc1b6f",
+      "source_dimensions": [
+        2048,
+        2048
+      ],
+      "source_pixels_edited": false,
+      "source_marker_obscured": false,
+      "cta_url": "https://www.reddit.com/r/PythonJobs/comments/1xrw3eo/forhire_fullremote_python_csv_quote_validation/",
+      "qr_url": "https://www.reddit.com/comments/1xrw3eo",
+      "rendered_file": "card-5.png",
+      "rendered_sha256": "4c7e0acbddedb37ab87fa601d803a1d50f428fedbf9d4388902bb5948c5845d3",
+      "rendered_size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "id": "06-amounts",
+      "source": "06-amount-review",
+      "title": [
+        "Make the rounding",
+        "rule explicit."
+      ],
+      "intro": "Use a fixed calculation that can be checked against examples.",
+      "body": "<b>Net = qty x unit_price x (1 - discount)</b><br/>Discount is a reduction ratio from 0 to 1. Decimal ROUND_HALF_UP rounds each valid line to two places before quote totals are added.<br/>The starter rule covers CNY; tax and FX are outside scope.",
+      "cta": "Provide an expected total",
+      "page": 6,
+      "source_file": "source-originals/06-amount-review.png",
+      "source_sha256": "52491342ffd3e75ca507299322fc7d400cc8c74addea036b6b81a50f17278a9c",
+      "source_dimensions": [
+        2048,
+        2048
+      ],
+      "source_pixels_edited": false,
+      "source_marker_obscured": false,
+      "cta_url": "https://www.reddit.com/r/PythonJobs/comments/1xrw3eo/forhire_fullremote_python_csv_quote_validation/",
+      "qr_url": "https://www.reddit.com/comments/1xrw3eo",
+      "rendered_file": "card-6.png",
+      "rendered_sha256": "920e6492176860a6723e3c5685018dc098515a45d552190ea8eb98f60ce6f19f",
+      "rendered_size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "id": "07-delivery",
+      "source": "10-local-handoff",
+      "title": [
+        "Get files you",
+        "can run again."
+      ],
+      "intro": "Keep the result and the steps needed for the next agreed batch.",
+      "body": "Receive <b>checked.csv</b>, <b>quotes.csv</b>, the Python script and run instructions. The delivered script uses Python standard-library modules and makes no network calls.<br/>Seven agreed input fields are exported; additional columns are not automatically copied.",
+      "cta": "Review the working demonstration",
+      "page": 7,
+      "source_file": "source-originals/10-local-handoff.png",
+      "source_sha256": "c5b5304bfc7b29043983ebbd715cbdabaa04cc1b44c6be97a3f1d3bc3ce99b55",
+      "source_dimensions": [
+        2560,
+        1440
+      ],
+      "source_pixels_edited": false,
+      "source_marker_obscured": false,
+      "cta_url": "https://gist.github.com/Tiancheng-Xu/b06921b6a135692b9fd408ac10398a4d",
+      "qr_url": "https://www.reddit.com/comments/1xrw3eo",
+      "rendered_file": "card-7.png",
+      "rendered_sha256": "876a56aa37ce79f5583ce893685be9d69f22a658071469ced46b9ef181301312",
+      "rendered_size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "id": "08-review",
+      "source": "12-faq-background",
+      "title": [
+        "Agree the checks.",
+        "Review the result."
+      ],
+      "intro": "An operator confirms the business decision after data checks pass.",
+      "body": "<b>\"Ready\" means the data rules passed.</b> It does not authorize issuing a quote or sending messages.<br/>Use a fresh output folder. A write failure can leave partial files, which must not be used as a successful result. The public example is synthetic, not a customer case.",
+      "cta": "Discuss your acceptance examples",
+      "page": 8,
+      "source_file": "source-originals/12-faq-background.png",
+      "source_sha256": "6226b8ba0c6d697fa6419377caeceacece14d58f4de349816044ec243fbbe65c",
+      "source_dimensions": [
+        1728,
+        2304
+      ],
+      "source_pixels_edited": false,
+      "source_marker_obscured": false,
+      "cta_url": "https://www.reddit.com/r/PythonJobs/comments/1xrw3eo/forhire_fullremote_python_csv_quote_validation/",
+      "qr_url": "https://www.reddit.com/comments/1xrw3eo",
+      "rendered_file": "card-8.png",
+      "rendered_sha256": "ff26654bf3cd14ece353d737932245ddeb1d328afad96fe6beb4355e0bd03101",
+      "rendered_size": [
+        1080,
+        1350
+      ]
+    }
+  ],
+  "excluded_holds": [
+    "01",
+    "02",
+    "07",
+    "08",
+    "11",
+    "14"
+  ],
+  "new_model_generation": false,
+  "reward_points_used": 0,
+  "pdf_sha256": "6fddcc8c674a3692bf99fa1f5fb94b1d2f185ded6892d9078c58e84ab61e20a1"
+}
